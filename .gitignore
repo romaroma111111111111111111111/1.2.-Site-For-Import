@@ -1,0 +1,8 @@
+# игонорирование каталога tmp
+tmp/
+# игнорировать файл NeuroStartUp.png_backup
+NeuroStartUp.png_backup
+# игнорировать файл index.html_old
+index.html_old
+.DS_Store
+Thumbs
